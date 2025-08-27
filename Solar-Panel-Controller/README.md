@@ -1,1 +1,1 @@
-
+Files to support the control system for a typical home using 8kW solar panels and 10kW solar panels. Controls included for providing electricity and supplying back to the grid. Implementation through MPC and SINDYc data driven modelling techniques.
